@@ -1,3 +1,3 @@
 # JavaScript_prog
 
-Hellow world
+Hello world
